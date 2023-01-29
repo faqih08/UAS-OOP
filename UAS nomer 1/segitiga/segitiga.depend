@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1675019527 source:c:\users\win10\documents\c\uas nomer 1\segitiga\main.cpp
+	<iostream>
+
+1675000505 source:c:\users\win10\documents\c\uas 1.2.cpp
+	<iostream>
+	<string>
+	<cmath>
+
